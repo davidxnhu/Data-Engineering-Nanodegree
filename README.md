@@ -39,4 +39,5 @@ Schedule, automate, and monitor data pipelines using Apache Airflow. Run data qu
 ## Capstone Project
 Combine what you've learned throughout the program to build your own data engineering portfolio project. 
 - DATA ENGINEERING CAPSTONE: US Migration data ETL pipeline with Spark
+
 [Source](https://github.com/davidxnhu/Data-Engineering-Nanodegree/tree/main/P6%20Capstone-project)
